@@ -221,6 +221,8 @@ Production-ready open source models for GUI automation.
 
 - [ScienceBoard: Scientific Workflows Evaluation](https://arxiv.org/abs/2505.19897) - Multimodal agents in realistic scientific workflows. *2025*
 
+- [ClawBench: Can AI Agents Complete Everyday Online Tasks?](https://arxiv.org/abs/2604.08523) - Live-web benchmark for everyday browser tasks with safe final-request interception. *University of British Columbia, Vector Institute, et al., 2026* · [Website](https://claw-bench.com/) · [GitHub](https://github.com/reacher-z/ClawBench)
+
 ### Safety & Security
 
 - [Attacking Vision-Language Computer Agents via Pop-ups](https://arxiv.org/abs/2411.02391) - Adversarial attacks through pop-up injection. *2024*
