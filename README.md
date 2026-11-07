@@ -92,6 +92,8 @@ Production-ready open source models for GUI automation.
 
 - [AgentStudio](https://arxiv.org/abs/2403.17918) - Toolkit for building general virtual agents.
 
+- [agent-qa](https://vostride.com) - Web, Android and iOS QA with persistent memory, step evidence and reviewable self-improvement (FSL-1.1-ALv2). [GitHub](https://github.com/vostride/agent-qa).
+
 ### Platform-Specific
 
 - [Claude Computer Use for macOS](https://github.com/deedy/mac_computer_use) - Anthropic computer use adapted for Mac.
